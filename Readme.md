@@ -2,19 +2,19 @@
 
 ## 1. Run Directly -
 		a. open the Terminal.
-		b. $ cd cryptomover
+		b. $ cd cryptomover_assignment
 		c. $ pip install -r requirements.txt
 		d. $ python stellar.py 	  /	  python3 stellar.py
 
 ## 2. Use my virtual environment(stellarenv) -
 		a. open the Terminal.
-		b. $ cd cryptomover
+		b. $ cd cryptomover_assignment
 		c. $ source stellarenv/bin/activate
 		d. (stellarenv)$ python stellar.py    /	   python3 stellar.py
 
 ## 3. Create your own virtual environment and use -
 		a. open the Terminal.
-		b. $ cd cryptomover
+		b. $ cd cryptomover_assignment
 		c. $ virtualenv myenv
 		d. $ source myenv/bin/activate
 		e. (myenv)$ pip install -r requirements.txt
